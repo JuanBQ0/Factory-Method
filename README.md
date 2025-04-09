@@ -1,4 +1,4 @@
-# Abstract-Factory
+# Factory-Method
 Para ejecutar el programa 
 node app.js
 
